@@ -1,4 +1,3 @@
-
 FROM ubuntu:14.04
 MAINTAINER li quanlin "972201758@qq.com" 
 ENV REFRESHED_AT 2016-06-29
