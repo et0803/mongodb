@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 MAINTAINER li quanlin "972201758@qq.com" 
 ENV REFRESHED_AT 2016-06-29
 RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
